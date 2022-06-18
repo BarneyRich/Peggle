@@ -25,15 +25,15 @@ score of 1 and a ball into the bad slot minus a score of 1.
 * In "Done" mode creating red balls
 * Spinning slots for the balls to bounce off of
 * Target slots, where red slots = bad slots and green slots = good slots.
-*
 
-##Screenshots 
-<img width="805" alt="1" src="https://user-images.githubusercontent.com/97446167/174438315-81829d5f-6a13-4a09-9708-cdc4bb49ba8b.png">
-<img width="849" alt="2" src="https://user-images.githubusercontent.com/97446167/174438322-ec58cf9e-cd76-46a2-81d6-b927d463e5c3.png">
-<img width="705" alt="3" src="https://user-images.githubusercontent.com/97446167/174438325-6cb5e204-ead3-4da1-9759-3d57a475834d.png">
+
+## Screenshots 
+<img width="708" alt="1" src="https://user-images.githubusercontent.com/97446167/174438315-81829d5f-6a13-4a09-9708-cdc4bb49ba8b.png">
+<img width="708" alt="2" src="https://user-images.githubusercontent.com/97446167/174438322-ec58cf9e-cd76-46a2-81d6-b927d463e5c3.png">
+<img width="708" alt="3" src="https://user-images.githubusercontent.com/97446167/174438325-6cb5e204-ead3-4da1-9759-3d57a475834d.png">
 <img width="708" alt="4" src="https://user-images.githubusercontent.com/97446167/174438327-71eb79eb-6ea5-49a5-b387-04d896f33dbb.png">
 
-##Contacts
+## Contacts
 * barnabassimon486@gmail.com
 * @BarneyRich
 
